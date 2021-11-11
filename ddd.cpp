@@ -12,7 +12,7 @@ void maxsub(int *a){                                      //接收一维int数�
       }else{
           lin[i]=a[i];
       }
-  }
+  }                                                               //22222222222222222222222222222
   for(int i=1;i<=a[0];i++){
       if(lin[i]>max){
           max=lin[i];
